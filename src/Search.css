@@ -1,0 +1,24 @@
+#searchResultP {
+    text-align: center; 
+    font-size: 1.2em;
+}
+
+.loadingIcon {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.bookIconDiv > img {
+    width: 30%;
+}
+@media (min-width: 960px) {
+    .bookIconDiv > img {
+        width: 10%;
+    }
+
+    .SearchPageDiv .search-card {
+        width: 60%;
+        margin: auto;
+    }
+}

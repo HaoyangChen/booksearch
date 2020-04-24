@@ -1,0 +1,33 @@
+.user-profile h1 {
+    text-align: center;
+}
+
+.user-profile .profile-img img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.user-profile .profile-description {
+    margin-left: 4%;;
+}
+
+.user-profile .profile-description span {
+    font-weight: bold;
+}
+
+.user-profile .profile-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (min-width: 500px) {
+    .user-profile .profile-flex {
+        flex-direction: row;
+    }
+}

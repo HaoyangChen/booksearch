@@ -1,0 +1,70 @@
+.about-us {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-us h1 {
+    text-align: center;
+}
+.about-us .about-row {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.about-us .team-member {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.about-us .team-member img {
+    width: 335px;
+    height: 335px;
+    border: 7px solid rgba(0,0,0,.1);
+}
+
+.team-member .rounded-circle {
+    border-radius: 50%;
+}
+
+.about-us .mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-muted {
+    color: #6c757d;
+}
+
+.about-us .justify-text {
+    width: 90%;
+}
+
+.about-us .description-detail {
+    line-height: 1.75;
+}
+
+.about-us .member-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.about-us .member-title {
+    font-size: 1rem;
+}
+
+
+@media (min-width: 772px) {
+    .about-us .col-sm-6 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,76 @@
+.text-white {
+  color: #fff;
+}
+
+.pb-4,
+.py-4 {
+  padding-bottom: 1.5rem;
+}
+
+.pt-4,
+.py-4 {
+  padding-top: 1.5rem;
+}
+
+.mt-4,
+.my-4 {
+  margin-top: 1.5rem;
+}
+
+.bg-dark {
+  background-color: #343a40;
+}
+
+footer {
+  display: block;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-sm-center {
+  text-align: center;
+}
+
+small {
+  font-size: 80%;
+  font-weight: 400;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container,
+  .container-md,
+  .container-sm {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1140px;
+  }
+}

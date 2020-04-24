@@ -1,0 +1,17 @@
+.loginPage {
+    margin: 20px;
+    margin-top: 50px;
+}
+
+#login-icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 130px;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.loginPage h1 {
+    text-align: center;
+}

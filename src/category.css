@@ -1,0 +1,35 @@
+.category-div {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.category-div  > img {
+    width: 160px;
+    height: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.category-div  > p {
+    margin-top: 20px;
+}
+
+.category-div > Button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 50%;
+    background-color: #708498;
+}
+
+.category-div > Button:hover {
+    background-color: #284a6d;
+}
+
+.react-multi-carousel-track {
+    margin-bottom: 25px;
+}
