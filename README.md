@@ -1,4 +1,4 @@
-# Info In, Book Out
+# Info In, Book Out - Used Book Selling Web App
 ## [Live Site](https://info340a-w20.github.io/project-iinbo/)
 You can access the live site of our application by [clicking here](https://info340a-w20.github.io/project-iinbo/) or visiting https://info340a-w20.github.io/project-iinbo/
 
@@ -6,7 +6,7 @@ You can access the live site of our application by [clicking here](https://info3
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). We use Google's [Firebase](https://firebase.google.com/) to enable log in feature and store user information.
 
 ## Goal
-The overarching goal of our application is to help students to find the cheapest book they want to buy quickly. You could think this app as a used book selling web app. 
+The overarching goal of our application is to help people to find the cheapest book they want to buy quickly. 
 
 ## API
 We used Google Books API to fetch book related information.
