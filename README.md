@@ -3,13 +3,14 @@
 You can access the live site of our application by [clicking here](https://info340a-w20.github.io/project-iinbo/) or visiting https://info340a-w20.github.io/project-iinbo/
 
 ## Tools and Framework Used
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). We use Google's [Firebase](https://firebase.google.com/) to enable log in feature and store user information.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). We use Google's [Firebase](https://firebase.google.com/) to enable log in feature and store user information. We also utilized the [Material-UI](https://material-ui.com/) in our web application.
 
 ## Goal
 The overarching goal of our application is to help people to find the cheapest book they want to buy quickly. 
 
 ## API
 We used Google Books API to fetch book related information.
+You can visit the documentation by [clicking here](https://developers.google.com/books/docs/v1/reference/bookshelves)
 
 ## Basic Usage
 You can click the category to view books with that specific category. You can search for any book in the search box at the search page. 
