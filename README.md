@@ -1,6 +1,6 @@
 # Info In, Book Out - Used Book Selling Web App
 ## [Live Site](https://info340a-w20.github.io/project-iinbo/)
-You can access the live site of our application by [clicking here](https://info340a-w20.github.io/project-iinbo/) or visiting https://info340a-w20.github.io/project-iinbo/
+You can access the live site of our application by visiting https://info340a-w20.github.io/project-iinbo/
 
 ## Tools and Framework Used
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). We use Google's [Firebase](https://firebase.google.com/) to enable log in feature and store user information. We also utilized the [Material-UI](https://material-ui.com/) in our web application.
