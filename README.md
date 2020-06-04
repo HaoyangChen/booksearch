@@ -16,6 +16,8 @@ You can click the category to view books with that specific category. You can se
 
 You can also make new post by first searching your book's name and author through the form. Then the search result will show up and you can select the "SELL ONE LIKE THIS" button to enter your customized description and address. Your post will then automatically be posted to the page. You can also delete a post you previously posted from that page.
 
+You can also contact a seller who posted a book that you find interesting. By clicking the "Contact Seller" button, our app will take you to the sell's profile. From there, you can get seller's contact information.
+
 ## Available Scripts
 
 In the project directory, you can run:
