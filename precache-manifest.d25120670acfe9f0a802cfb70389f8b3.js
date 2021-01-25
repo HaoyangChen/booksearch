@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "409127a28ee73ef79004f94f5871a742",
+    "revision": "82556d809bc0addb61c089930c05f47d",
     "url": "/BookSearch/index.html"
   },
   {
-    "revision": "63762168359a0025548b",
+    "revision": "f88d16cf599fb53743f6",
     "url": "/BookSearch/static/css/2.4cc7c3bf.chunk.css"
   },
   {
-    "revision": "4158c7792697c5b76e44",
+    "revision": "645ad802fd4177799cb1",
     "url": "/BookSearch/static/css/main.04b60730.chunk.css"
   },
   {
-    "revision": "63762168359a0025548b",
-    "url": "/BookSearch/static/js/2.6923cac0.chunk.js"
+    "revision": "f88d16cf599fb53743f6",
+    "url": "/BookSearch/static/js/2.3f07b036.chunk.js"
   },
   {
     "revision": "b153a7e581b4c41c69e9eff1c85f75fd",
-    "url": "/BookSearch/static/js/2.6923cac0.chunk.js.LICENSE.txt"
+    "url": "/BookSearch/static/js/2.3f07b036.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4158c7792697c5b76e44",
-    "url": "/BookSearch/static/js/main.7e636e19.chunk.js"
+    "revision": "645ad802fd4177799cb1",
+    "url": "/BookSearch/static/js/main.4087dbc0.chunk.js"
   },
   {
-    "revision": "9a5c5efab5cfc1c736b6",
-    "url": "/BookSearch/static/js/runtime-main.bfb110cf.js"
+    "revision": "fa8bbc88a9a82824f5a5",
+    "url": "/BookSearch/static/js/runtime-main.4463aae1.js"
   },
   {
     "revision": "fc858725b4312b96f266c3afc9fd031c",

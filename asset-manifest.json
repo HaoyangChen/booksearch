@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/BookSearch/static/css/main.04b60730.chunk.css",
-    "main.js": "/BookSearch/static/js/main.7e636e19.chunk.js",
-    "main.js.map": "/BookSearch/static/js/main.7e636e19.chunk.js.map",
-    "runtime-main.js": "/BookSearch/static/js/runtime-main.bfb110cf.js",
-    "runtime-main.js.map": "/BookSearch/static/js/runtime-main.bfb110cf.js.map",
+    "main.js": "/BookSearch/static/js/main.4087dbc0.chunk.js",
+    "main.js.map": "/BookSearch/static/js/main.4087dbc0.chunk.js.map",
+    "runtime-main.js": "/BookSearch/static/js/runtime-main.4463aae1.js",
+    "runtime-main.js.map": "/BookSearch/static/js/runtime-main.4463aae1.js.map",
     "static/css/2.4cc7c3bf.chunk.css": "/BookSearch/static/css/2.4cc7c3bf.chunk.css",
-    "static/js/2.6923cac0.chunk.js": "/BookSearch/static/js/2.6923cac0.chunk.js",
-    "static/js/2.6923cac0.chunk.js.map": "/BookSearch/static/js/2.6923cac0.chunk.js.map",
+    "static/js/2.3f07b036.chunk.js": "/BookSearch/static/js/2.3f07b036.chunk.js",
+    "static/js/2.3f07b036.chunk.js.map": "/BookSearch/static/js/2.3f07b036.chunk.js.map",
     "index.html": "/BookSearch/index.html",
-    "precache-manifest.ae99077b80812cceff48d0753b8e4d5c.js": "/BookSearch/precache-manifest.ae99077b80812cceff48d0753b8e4d5c.js",
+    "precache-manifest.d25120670acfe9f0a802cfb70389f8b3.js": "/BookSearch/precache-manifest.d25120670acfe9f0a802cfb70389f8b3.js",
     "service-worker.js": "/BookSearch/service-worker.js",
     "static/css/2.4cc7c3bf.chunk.css.map": "/BookSearch/static/css/2.4cc7c3bf.chunk.css.map",
     "static/css/main.04b60730.chunk.css.map": "/BookSearch/static/css/main.04b60730.chunk.css.map",
-    "static/js/2.6923cac0.chunk.js.LICENSE.txt": "/BookSearch/static/js/2.6923cac0.chunk.js.LICENSE.txt",
+    "static/js/2.3f07b036.chunk.js.LICENSE.txt": "/BookSearch/static/js/2.3f07b036.chunk.js.LICENSE.txt",
     "static/media/HaoyangChen.jpg": "/BookSearch/static/media/HaoyangChen.fc858725.jpg",
     "static/media/YinanGuo.jpg": "/BookSearch/static/media/YinanGuo.c121ef48.jpg",
     "static/media/action-book.jpg": "/BookSearch/static/media/action-book.508e58ed.jpg",
@@ -31,10 +31,10 @@
     "static/media/textbook.jpg": "/BookSearch/static/media/textbook.d185fe47.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfb110cf.js",
+    "static/js/runtime-main.4463aae1.js",
     "static/css/2.4cc7c3bf.chunk.css",
-    "static/js/2.6923cac0.chunk.js",
+    "static/js/2.3f07b036.chunk.js",
     "static/css/main.04b60730.chunk.css",
-    "static/js/main.7e636e19.chunk.js"
+    "static/js/main.4087dbc0.chunk.js"
   ]
 }
