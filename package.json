@@ -1,8 +1,8 @@
 {
-  "name": "project-iinbo",
+  "name": "booksearch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://info340a-w20.github.io/project-iinbo/",
+  "homepage": "https://haoyangchen.github.io/booksearch",
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@material-ui/icons": "^4.9.1",
