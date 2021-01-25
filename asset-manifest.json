@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/BookSearch/static/css/main.04b60730.chunk.css",
+    "main.js": "/BookSearch/static/js/main.7e636e19.chunk.js",
+    "main.js.map": "/BookSearch/static/js/main.7e636e19.chunk.js.map",
+    "runtime-main.js": "/BookSearch/static/js/runtime-main.bfb110cf.js",
+    "runtime-main.js.map": "/BookSearch/static/js/runtime-main.bfb110cf.js.map",
+    "static/css/2.4cc7c3bf.chunk.css": "/BookSearch/static/css/2.4cc7c3bf.chunk.css",
+    "static/js/2.6923cac0.chunk.js": "/BookSearch/static/js/2.6923cac0.chunk.js",
+    "static/js/2.6923cac0.chunk.js.map": "/BookSearch/static/js/2.6923cac0.chunk.js.map",
+    "index.html": "/BookSearch/index.html",
+    "precache-manifest.ae99077b80812cceff48d0753b8e4d5c.js": "/BookSearch/precache-manifest.ae99077b80812cceff48d0753b8e4d5c.js",
+    "service-worker.js": "/BookSearch/service-worker.js",
+    "static/css/2.4cc7c3bf.chunk.css.map": "/BookSearch/static/css/2.4cc7c3bf.chunk.css.map",
+    "static/css/main.04b60730.chunk.css.map": "/BookSearch/static/css/main.04b60730.chunk.css.map",
+    "static/js/2.6923cac0.chunk.js.LICENSE.txt": "/BookSearch/static/js/2.6923cac0.chunk.js.LICENSE.txt",
+    "static/media/HaoyangChen.jpg": "/BookSearch/static/media/HaoyangChen.fc858725.jpg",
+    "static/media/YinanGuo.jpg": "/BookSearch/static/media/YinanGuo.c121ef48.jpg",
+    "static/media/action-book.jpg": "/BookSearch/static/media/action-book.508e58ed.jpg",
+    "static/media/carouselStyle.css": "/BookSearch/static/media/arrow-right.5e4bcb09.png",
+    "static/media/banner1.jpg": "/BookSearch/static/media/banner1.fdb570e9.jpg",
+    "static/media/banner2.jpg": "/BookSearch/static/media/banner2.4e337098.jpg",
+    "static/media/banner3.jpg": "/BookSearch/static/media/banner3.a2fe0348.jpg",
+    "static/media/book-icon.png": "/BookSearch/static/media/book-icon.3b274159.png",
+    "static/media/comic-book.jpg": "/BookSearch/static/media/comic-book.1578f7f5.jpg",
+    "static/media/fairytale-book.jpg": "/BookSearch/static/media/fairytale-book.f573176d.jpg",
+    "static/media/horror-book.jpg": "/BookSearch/static/media/horror-book.508ec192.jpg",
+    "static/media/portrait.jpg": "/BookSearch/static/media/portrait.c582b1f2.jpg",
+    "static/media/styles.css": "/BookSearch/static/media/revicons.2feb69cc.eot",
+    "static/media/romance-book.jpg": "/BookSearch/static/media/romance-book.b3def1bd.jpg",
+    "static/media/textbook.jpg": "/BookSearch/static/media/textbook.d185fe47.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfb110cf.js",
+    "static/css/2.4cc7c3bf.chunk.css",
+    "static/js/2.6923cac0.chunk.js",
+    "static/css/main.04b60730.chunk.css",
+    "static/js/main.7e636e19.chunk.js"
+  ]
+}
